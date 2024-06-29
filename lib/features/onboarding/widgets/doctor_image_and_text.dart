@@ -26,6 +26,7 @@ class DoctorImageAndText extends StatelessWidget {
               ],
             ),
           ),
+          
           child: Image.asset(ImagesHelper.onboardingDoctor),
         ),
         Positioned(
