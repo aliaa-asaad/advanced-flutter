@@ -1,16 +1,10 @@
 # advanced_flutter
 
-A new Flutter project.
+a Medical flutter project using:
+ - State Management: BLoC
+ - Arch: Clean Arch with MVVM.
 
-## Getting Started
+## 🎨System design
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/aliaa-asaad/advanced-flutter/assets/69787377/32676307-a2f1-43a3-b342-8f4c9b8935d3)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
