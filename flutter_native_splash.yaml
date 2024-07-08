@@ -1,0 +1,28 @@
+flutter_native_splash:
+  # api level = android version
+  # api 31 = android 12
+  # iOS & Android below 12
+
+
+  # color or background_image is the only required parameter.  Use color to set the background
+  # of your splash screen to a solid color.  Use background_image to set the background of your
+  # splash screen to a png image.  This is useful for gradients. The image will be stretch to the
+  # size of the app. Only one parameter can be used, color and background_image cannot both be set.
+  color: "#ffffff"
+  #background_image: "assets/background.png"
+
+  # Optional parameters are listed below.  To enable a parameter, uncomment the line by removing
+  # the leading # character.
+
+  # The image parameter allows you to specify an image used in the splash screen.  It must be a
+  # png file and should be sized for 4x pixel density.
+  color: "#ffffff"
+  image: assets/images/splash.png
+
+  # From Android 12 onwards, the splash screen is handled differently than in previous versions.
+  # Please visit https://developer.android.com/guide/topics/ui/splash-screen
+  # Following are specific parameters for Android 12+.
+  android_12:
+    color: "#ffffff"
+    image: assets/images/splash_android12_logo.png
+ 
